@@ -1,8 +1,4 @@
-# Entertainment Hub
-<table>
-<tr>
-<td>
+#Movies Store 
+
   Movie App built in React JS and Material UI.
-</td>
-</tr>
-</table>
+
