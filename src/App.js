@@ -21,6 +21,7 @@ function App() {
             <Route path="/series" component={Series} />
             <Route path="/search" component={Search} />
             {/* <Route path="/search" component={Search} /> */}
+            {/* <Route path="/search" component={Search} /> */}
           </Switch>
         </Container>
       </div>
